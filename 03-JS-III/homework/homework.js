@@ -2,12 +2,14 @@
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
+
 // No cambies los nombres de las funciones.
 
 function imprimirSumaNumeros() {
     // Imprime la suma de los números del 1 al 10
     // Pista: usa un acumulador
     // Tu código:
+    
 }
 
 function encuentraPares(array){
